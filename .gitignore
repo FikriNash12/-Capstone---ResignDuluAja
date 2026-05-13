@@ -1,2 +1,5 @@
 # Mengabaikan seluruh folder dataset
-Dataset/LinkedIn_posting_dataset/
+# Dataset/LinkedIn_posting_dataset/
+
+# Mengabaikan file .vscode
+.vscode/
