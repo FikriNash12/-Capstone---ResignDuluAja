@@ -3,3 +3,6 @@
 
 # Mengabaikan file .vscode
 .vscode/
+
+# Mengabaikan file python
+*.py
