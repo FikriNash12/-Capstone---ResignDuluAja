@@ -3,3 +3,6 @@
 
 # Mengabaikan file python
 *.py
+
+# Mengabaikan file .docx
+*.docx
